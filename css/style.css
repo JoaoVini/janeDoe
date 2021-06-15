@@ -67,3 +67,19 @@ footer p{
         padding: 0 20px;
     }
 }
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+    font-weight: normal;
+}
+.imagemabout {
+    text-align: center;
+}
