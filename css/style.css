@@ -80,6 +80,6 @@ h6 {
     text-align: center;
     font-weight: normal;
 }
-.imagemabout {
-    text-align: center;
+#imagem {
+    margin: 0px 0px 0px 150px;
 }
