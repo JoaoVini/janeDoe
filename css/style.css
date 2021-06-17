@@ -81,5 +81,10 @@ h6 {
     font-weight: normal;
 }
 #imagem {
-    margin: 0px 0px 0px 150px;
-}
+    margin-top: 16px;
+    background-image: url(../img/jane2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 40vh;
+};
