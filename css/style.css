@@ -39,6 +39,26 @@ ul.anchor-block li a {
     background-position: center;
 }
 
+.contatos {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px 40px 20px 40px;
+    text-align: justify;
+    width: 100%;
+  }
+  
+  ul.contact {
+    list-style: none;
+    padding-bottom: 10px;
+    padding-left: 0;
+    border-bottom: 1px solid #d0d0d0;
+  }
+  
+  ul.contactLast {
+    list-style: none;
+    padding: 0 0 10px 0;
+  }
+
 #music {
     max-width: 800px;
     margin: 0 auto;
@@ -87,4 +107,17 @@ h6 {
     background-position: center;
     background-size: contain;
     height: 40vh;
-};
+    margin-bottom: 50px;
+}
+
+h2.contatos {
+    text-align: left;
+    padding: 0;
+    margin: 20px 0px;
+}
+
+h4.contatos {
+    text-align: left;
+    padding: 0;
+    margin: 20px 0px;
+}
